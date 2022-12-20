@@ -1,4 +1,4 @@
-class producto {
+class Producto {
     constructor (nombre, precio, stock) {
         this.nombre = nombre;
         this.precio = precio;
